@@ -1,5 +1,7 @@
 /**
  * @author linh.truongthe
+ *
+ * Singleton exammple.
  */
 public class Singleton {
 
